@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "login": "VarAngel",
+  "seed": "#412F31",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "stack",
+    "about",
+    "stats",
+    "wave",
+    "streak",
+    "projects",
+    "buttons"
+  ],
+  "hidden": [
+    "projects",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm aether.",
+    "name": "vev09v7",
+    "subtitle": "bla bla bla...",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia, Moscow"
+      },
+      {
+        "icon": "code",
+        "label": "HTML · CSS · JS · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "Devices",
+    "items": [
+      {
+        "icon": "window",
+        "label": "ASUS Rog Strix (WIN 11, 26H2)"
+      },
+      {
+        "icon": "android",
+        "label": "Nothing Phone (4) Pro / A17 (OS 5.0B)"
+      },
+      {
+        "icon": "android",
+        "label": "Nothing Phone (3) Pro / A17 (OS 5.0B)"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          }
+        ]
+      },
+      {
+        "title": "Web",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Android",
+        "items": [
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:flutter",
+            "label": "Flutter"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/vev09v7"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@engelkrieges?"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/profiles/76561199795534373/"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/VarAngel"
+      },
+      {
+        "icon": "brand:vk",
+        "url": "https://vk.ru/vev09v7"
+      },
+      {
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/31w5chlgbelqh2fq3vgzp7auhffu"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
