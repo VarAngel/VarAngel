@@ -19,7 +19,9 @@
   ],
   "hidden": [
     "projects",
-    "buttons"
+    "buttons",
+    "about",
+    "stack"
   ],
   "hero": {
     "greeting": "Hi, I'm aether.",
